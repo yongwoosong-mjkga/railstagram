@@ -13,7 +13,7 @@ gem 'rails', '~> 5.2.3'
 # postgres db support  / building instagram-clone
 gem 'pg', '~> 0.18.2'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 
 # Devise for user authentication
 gem 'devise'
